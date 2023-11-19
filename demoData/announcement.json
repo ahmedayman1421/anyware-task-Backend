@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Welcome to the Programming Course!",
+      "content": "Get ready for a hands-on workshop on building responsive web designs using CSS Flexbox and Grid. See you there!",
+      "author": "65577501ded28cfb24a3bf0f",
+      "course": "655786e287d251570c96dbb0"
+    },
+    {
+      "title": "Upcoming Exam Announcement",
+      "content": "The course feedback survey is now open. Share your thoughts and help us improve your learning experience.",
+  
+      "author": "65577501ded28cfb24a3bf0f",
+      "course": "655786e287d251570c96dbb0",
+      "category": "Exam"
+    },
+    {
+      "title": "Web Development Workshop",
+      "content": "Save the date! We'll be hosting a networking event for students and industry professionals. Don't miss this chance to connect!",
+      "author": "65577501ded28cfb24a3bf0f",
+      "course": "655786e287d251570c96dbb0",
+      "category": "Event"
+    },
+    {
+      "title": "Guest Speaker: Industry Expert in AI",
+      "content": "Exciting announcement! We'll be hosting a coding bootcamp next month. Stay tuned for more details.",
+      "author": "65577501ded28cfb24a3bf0f",
+      "course": "655786e287d251570c96dbb0",
+      "category": "Event"
+    },
+    {
+      "title": "Group Project Collaboration",
+      "content": "Explore the world of mobile app development with our new module on building iOS applications using Swift Explore the world of mobile app development with our new module on building iOS applications using Swift.",
+      "author": "65577501ded28cfb24a3bf0f",
+      "course": "655786e287d251570c96dbb0",
+      "category": "General"
+    },
+    {
+      "title": "Codeathon Announcement",
+      "content": "Instructor office hours are now available. If you need clarification or have questions, feel free to drop by during the designated times.",
+      "author": "65577501ded28cfb24a3bf0f",
+      "course": "655786e287d251570c96dbb0",
+      "category": "Event"
+    }
+  ]
+  
